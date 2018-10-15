@@ -28,7 +28,7 @@ namespace esercizioLibriXML_Galbucci_Neri
 
         private void btn_Crea_Click(object sender, RoutedEventArgs e)
         {
-            XDocument xmlDocument = XDocument.Load(@"Z:\Tpi\esercizioLibriXML\esercizioLibriXML_Galbucci_Neri\esercizioLibriXML_Galbucci_Neri\libri.xml");
+            XDocument xmlDocument = XDocument.Load(@"C:\Users\matteo.neri\Desktop\esLibri Galbucci Neri\ProgettoLibriXML\esercizioLibriXML_Galbucci_Neri\esercizioLibriXML_Galbucci_Neri\libri.XML");
         }
     }
 }
